@@ -20,8 +20,13 @@ var web_servers = [
     "regex": "^Antiweb.*"
   },
   {
+    "icon": "tomcat.gif",
+    "title": "Apache Tomcat",
+    "regex": "^Apache-Coyote.*"
+  },
+  {
     "icon": "apache.ico",
-    "title": "Apache",
+    "title": "Apache HTTP Server",
     "regex": "^Apache.*"
   },
   {

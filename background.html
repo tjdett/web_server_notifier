@@ -14,6 +14,7 @@ chrome.extension.onRequest.addListener(function(banner, sender) {
     if (banner.match(web_servers[i].regex)) {
       alt = web_servers[i].title;
       ico = web_servers[i].icon;
+      break;
     }
   }
 
