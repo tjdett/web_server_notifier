@@ -256,6 +256,11 @@ var web_servers = [
     "regex": "^thttpd.*"
   },
   {
+    "icon": "java.png",
+    "title": "Winstone Servlet Container",
+    "regex": "^Winstone.*"
+  },
+  {
     "icon": "yaws.gif",
     "title": "Yaws",
     "regex": "^Yaws.*"
