@@ -316,6 +316,11 @@ var web_servers = [
     "regex": "^gws.*"
   },
   {
+    "icon": "google.ico",
+    "title": "Google Servlet Engine",
+    "regex": "^GSE$"
+  },
+  {
     "icon": "jigsaw.ico",
     "title": "Jigsaw",
     "regex": "^jigsaw.*"
